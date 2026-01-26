@@ -1,0 +1,5 @@
+﻿  Generating code
+  Previous IOBJ not found, fall back to full compilation.
+C:\Users\EmilyPatterson\source\repos\UninitialisedVariablesDemo\UninitialisedVariablesDemo.cpp(9): error C4700: uninitialized local variable 'x' used
+  All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+LINK : fatal error LNK1257: code generation failed

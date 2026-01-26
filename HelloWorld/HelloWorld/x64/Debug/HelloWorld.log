@@ -1,0 +1,2 @@
+﻿  HelloWorld.cpp
+C:\Users\EmilyPatterson\source\repos\HelloWorld\HelloWorld.cpp(6,5): error C2143: syntax error: missing ';' before 'return'
