@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\EmilyPatterson\\source\\repos\\MultiplyProgram\\",
+  "WorkspaceRootPath": "C:\\Users\\EmilyPatterson\\Documents\\GitHub\\c-plus-plus-projects\\MultiplyProgram\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2112DBDA-921C-4424-B500-3CE7E280B710}|MultiplyProgram.vcxproj|C:\\Users\\EmilyPatterson\\source\\repos\\MultiplyProgram\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{2112DBDA-921C-4424-B500-3CE7E280B710}|MultiplyProgram.vcxproj|C:\\Users\\EmilyPatterson\\Documents\\GitHub\\c-plus-plus-projects\\MultiplyProgram\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2112DBDA-921C-4424-B500-3CE7E280B710}|MultiplyProgram.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\EmilyPatterson\\source\\repos\\MultiplyProgram\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\EmilyPatterson\\Documents\\GitHub\\c-plus-plus-projects\\MultiplyProgram\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "C:\\Users\\EmilyPatterson\\source\\repos\\MultiplyProgram\\main.cpp",
+              "ToolTip": "C:\\Users\\EmilyPatterson\\Documents\\GitHub\\c-plus-plus-projects\\MultiplyProgram\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAABYAAAAAAAAAAAAowCQAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowCQAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-01-26T14:58:28.774Z",
               "EditorCaption": ""
