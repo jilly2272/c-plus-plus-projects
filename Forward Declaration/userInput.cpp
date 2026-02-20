@@ -1,5 +1,5 @@
+#include "userInput.h"
 #include <iostream>
-
 
 float getUserInput() {
 	float num{};

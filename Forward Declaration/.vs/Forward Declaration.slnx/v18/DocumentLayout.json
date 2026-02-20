@@ -1,12 +1,101 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\EmilyPatterson\\Documents\\GitHub\\c-plus-plus-projects\\Forward Declaration\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{353C5A4F-0FFB-48CA-93D3-73B957A96E20}|Forward Declaration.vcxproj|C:\\Users\\EmilyPatterson\\Documents\\GitHub\\c-plus-plus-projects\\Forward Declaration\\userInput.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{353C5A4F-0FFB-48CA-93D3-73B957A96E20}|Forward Declaration.vcxproj|solutionrelative:userInput.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353C5A4F-0FFB-48CA-93D3-73B957A96E20}|Forward Declaration.vcxproj|C:\\Users\\EmilyPatterson\\Documents\\GitHub\\c-plus-plus-projects\\Forward Declaration\\doMath.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{353C5A4F-0FFB-48CA-93D3-73B957A96E20}|Forward Declaration.vcxproj|solutionrelative:doMath.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353C5A4F-0FFB-48CA-93D3-73B957A96E20}|Forward Declaration.vcxproj|C:\\Users\\EmilyPatterson\\Documents\\GitHub\\c-plus-plus-projects\\Forward Declaration\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{353C5A4F-0FFB-48CA-93D3-73B957A96E20}|Forward Declaration.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353C5A4F-0FFB-48CA-93D3-73B957A96E20}|Forward Declaration.vcxproj|C:\\Users\\EmilyPatterson\\Documents\\GitHub\\c-plus-plus-projects\\Forward Declaration\\userInput.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{353C5A4F-0FFB-48CA-93D3-73B957A96E20}|Forward Declaration.vcxproj|solutionrelative:userInput.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{353C5A4F-0FFB-48CA-93D3-73B957A96E20}|Forward Declaration.vcxproj|C:\\Users\\EmilyPatterson\\Documents\\GitHub\\c-plus-plus-projects\\Forward Declaration\\doMath.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{353C5A4F-0FFB-48CA-93D3-73B957A96E20}|Forward Declaration.vcxproj|solutionrelative:doMath.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\EmilyPatterson\\Documents\\GitHub\\c-plus-plus-projects\\Forward Declaration\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\EmilyPatterson\\Documents\\GitHub\\c-plus-plus-projects\\Forward Declaration\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-16T11:27:06.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "doMath.cpp",
+              "DocumentMoniker": "C:\\Users\\EmilyPatterson\\Documents\\GitHub\\c-plus-plus-projects\\Forward Declaration\\doMath.cpp",
+              "RelativeDocumentMoniker": "doMath.cpp",
+              "ToolTip": "C:\\Users\\EmilyPatterson\\Documents\\GitHub\\c-plus-plus-projects\\Forward Declaration\\doMath.cpp",
+              "RelativeToolTip": "doMath.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-16T11:32:41.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "userInput.cpp",
+              "DocumentMoniker": "C:\\Users\\EmilyPatterson\\Documents\\GitHub\\c-plus-plus-projects\\Forward Declaration\\userInput.cpp",
+              "RelativeDocumentMoniker": "userInput.cpp",
+              "ToolTip": "C:\\Users\\EmilyPatterson\\Documents\\GitHub\\c-plus-plus-projects\\Forward Declaration\\userInput.cpp",
+              "RelativeToolTip": "userInput.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-16T11:27:08.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "doMath.h",
+              "DocumentMoniker": "C:\\Users\\EmilyPatterson\\Documents\\GitHub\\c-plus-plus-projects\\Forward Declaration\\doMath.h",
+              "RelativeDocumentMoniker": "doMath.h",
+              "ToolTip": "C:\\Users\\EmilyPatterson\\Documents\\GitHub\\c-plus-plus-projects\\Forward Declaration\\doMath.h",
+              "RelativeToolTip": "doMath.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-16T11:24:19.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "userInput.h",
+              "DocumentMoniker": "C:\\Users\\EmilyPatterson\\Documents\\GitHub\\c-plus-plus-projects\\Forward Declaration\\userInput.h",
+              "RelativeDocumentMoniker": "userInput.h",
+              "ToolTip": "C:\\Users\\EmilyPatterson\\Documents\\GitHub\\c-plus-plus-projects\\Forward Declaration\\userInput.h",
+              "RelativeToolTip": "userInput.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-16T11:28:55.673Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

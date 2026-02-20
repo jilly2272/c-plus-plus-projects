@@ -1,9 +1,6 @@
-// Question #4: Write the function declaration for this function (use the preferred form with names)
-
+#include "doMath.h"
+#include "userInput.h"
 #include <iostream>
-
-float doMath(float first, float second, float third, float fourth);
-float getUserInput();
 
 int main()
 {
